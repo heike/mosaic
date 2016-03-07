@@ -1,0 +1,13 @@
+Package: geom_tile_new
+Type: Package
+Title: Geom Tile New
+Description: 
+URL: 
+Version: 0.0.1
+Author: Haley Jeppson <hjeppson@iastate.edu>
+Maintainer: 
+Imports:
+    ggplot2
+License: ??
+LazyData: true
+
