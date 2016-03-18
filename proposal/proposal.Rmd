@@ -145,7 +145,7 @@ In this first example of a mosaic plot we are viewing the joint distribuiton of 
 
 3. Based on Hadley Wickham's introduction to extending `ggplot2` write a function that implements a geom of your choice. Document the function using Roxygen, and include it into an R package.
 
-For my third test, I made a small modification to an existing geom creating `geom_tile_new`. In this geom, the `geom_tile` defaults have been modified and the deocumention was also updates to follow the modifications. 
+For my third test, I made a small modification to an existing geom creating `geom_tile_new`. In this geom, the `geom_tile` defaults have been modified and the documention was also updated to follow the modifications. 
   
   
 ## Anything Else
