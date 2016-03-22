@@ -76,14 +76,14 @@ hofmann@iastate.edu
   
 ##### Outcomes:
 1. R package for generalized version of mosaic plots implemented as a `geom` for the `ggplot2` package based on `ggproto`.
-  +Coding project: Use `ggproto` together with the main functionality of the `prodplots` package to create an interface that allows integration of mosaic plots as a geom. The function is to be thoroughly documented using Roxygen.
-  +Issues: default spacing, ensure that the formulas necessary are intuitive, 
+  + Coding project: Use `ggproto` together with the main functionality of the `prodplots` package to create an interface that allows integration of mosaic plots as a geom. The function is to be thoroughly documented using Roxygen.
+  + Issues: default spacing, ensure that the formulas necessary are intuitive, 
 
 2. A set of examples documenting the use and flexibility of `geom_mosaic`.
-  +These examples could also stand as a verification of the results of the coding. 
+  + These examples could also stand as a verification of the results of the coding. 
 
 3. A shiny app highlighting the mosaicplot functionality interactively, to allow users to specify parameters and see the impact immediately to allow them to familiarize to the more abstract concepts of mosaicplots.
-  +The shiny app could also stand as a verification of the results of the coding. 
+  + The shiny app could also stand as a verification of the results of the coding. 
 
 
 #### Describe perceived obstacles and challenges, and how you plan to overcome them.
